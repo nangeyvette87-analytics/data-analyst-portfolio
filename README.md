@@ -1,4 +1,4 @@
-Hi, I'm Evette Nange — this repo contains data analysis projects I've built while learning to be a data analyst, using SQL, Python (pandas), and AI tools (Claude/ChatGPT) as part of my analysis workflow.
+Hi, I'm Evette Nange. This repo contains data analysis projects I've built while learning to be a data analyst, using SQL, Python (pandas), and AI tools (Claude/ChatGPT) as part of my analysis workflow.
 
 Projects
 - Project 1: _Coming soon_
